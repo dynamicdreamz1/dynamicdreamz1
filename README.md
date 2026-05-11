@@ -2,7 +2,6 @@
 
 <img src="https://dynamicdreamz.com/wp-content/uploads/2024/05/dynamic-dreamz-logo.svg" alt="Dynamic Dreamz Logo" width="300"/>
 
-# 🚀 Dynamic Dreamz
 
 ### Proud Shopify Premier Partner | Web & Mobile Development Company
 
