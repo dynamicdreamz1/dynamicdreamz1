@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://dynamicdreamz.com/wp-content/uploads/2024/05/dynamic-dreamz-logo.svg" alt="Dynamic Dreamz Logo" width="300"/>
+<img src="[https://dynamicdreamz.com/wp-content/uploads/2024/05/dynamic-dreamz-logo.svg](https://www.dynamicdreamz.com/wp-content/uploads/2026/07/dynamic-dreamz-logo-new.svg)" alt="Dynamic Dreamz Logo" width="300"/>
 
 
 ### Proud Shopify Premier Partner | Web & Mobile Development Company
